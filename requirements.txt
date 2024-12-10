@@ -1,8 +1,8 @@
 flask
 numpy
-pillow
 tensorflow
 keras
 flask-cors
 gunicorn
 werkzeug
+opencv-python
