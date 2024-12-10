@@ -20,7 +20,7 @@ This API uses machine learning to detect diseases in citrus plants through image
 
 1. Clone or download this repository:
 ```bash
-git clone [<repository-url>](https://github.com/Eddav29/citrus-disease-api.git)
+git clone https://github.com/Eddav29/citrus-disease-api.git
 cd detection
 ```
 
